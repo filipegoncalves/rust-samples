@@ -1,0 +1,4 @@
+[package]
+name = "dinning_philosophers"
+version = "0.1.0"
+authors = ["Filipe Gonçalves <filipe@codinghighway.com>"]
